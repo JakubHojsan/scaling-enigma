@@ -1,8 +1,9 @@
 import React from "react";
 import {
   AboutSection,
-  ArticlesSection,
+
   ContactSection,
+  ArticlesSection,
   HeroSection,
   InterestsSection,
   Page,
@@ -13,14 +14,14 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo title="Jakub Hojsan" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
-        <ContactSection sectionId="github" heading="Issues?" />
+        <AboutSection sectionId="about" heading="About me" />
+        <InterestsSection sectionId="details" heading="Interests" />
+        <ProjectsSection sectionId="projects" heading="Current Projects and Endeavors" />
+        <ArticlesSection sectionId="articles" heading="Project Writeups" sources={['Medium']} />
+        <ContactSection sectionId="github" heading="Socials" />
       </Page>
     </>
   );

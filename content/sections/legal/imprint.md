@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Jakub Hojsan<br />
+Victoria Lane<br />
+Elk Grove<br />
+USA
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>JAKUBHOJSAN@GMAIL.COM</u>
 
 ---
 

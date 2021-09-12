@@ -12,7 +12,8 @@
     "gatsby": "^3.7.1",
     "gatsby-theme-portfolio-minimal": "^2.5.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-pdf": "^5.3.2"
   },
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "MIT",

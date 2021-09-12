@@ -1,14 +1,14 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/headshot.jpg"
+imageAlt: "Profile Image"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I'm a rising sophomore at the University of California, Los Angeles.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+During my short time here so far, I have tried my best to leave a lasting impact on the organizations I have joined -- think startups and computer science clubs on campus.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I came into UCLA as an Business Economics major, but quickly found my passion for computer science. After joining a startup called <a href="https://Heylo.co" target="_blank" aria-label="External Link"><u>Heylo.co</u></a> as a Campus Lead, I rekindled my passion for startups/tech.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+I then joined <a href="https://uclaacmstudio.itch.io/" target="_blank" aria-label="External Link"><u>ACM Studio</u></a> to work on the development of games (as well as level design.)  
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Last but not least, I joined <a href="http://iliomirror.com/" target="_blank" aria-label="External Link"><u>Ilio Mirror</u></a> as CTO and built a fleshed out minimum viable product with an amazing team.
