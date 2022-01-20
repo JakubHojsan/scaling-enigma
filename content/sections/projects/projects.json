@@ -9,13 +9,19 @@
       "image": {
         "src": "../../images/twilio.jpg",
         "alt": "Twilio"
-      }
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.twilio.com/flex"
+        }
+      ]
     },
     {
       "visible": true,
       "category": "Group Project",
       "title": "QueueCLA",
-      "description": "For our CS35L class, my groupmates and I create a resturant directory and queue system to avoid lines at popular on/off campus dining locations.",
+      "description": "For our CS35L class, my groupmates and I created a resturant directory and queue system to avoid lines at popular on/off campus dining locations.",
       "tags": ["React.js", "Project", "Firebase", "Node.js", "MaterialUI"],
       "image": {
         "src": "../../images/queuecla.jpg",
@@ -33,11 +39,17 @@
       "category": "Startups and Hardware",
       "title": "Ilio Mirror Prototype",
       "description": "After working on a smart mirror with a friend, I was hired by Ilio Mirror to create a production ready prototype to pitch to investors and film an industry grade commercial for Kickstarter.",
-      "tags": ["Startup", "Project"],
+      "tags": ["Startup", "Project", "Embedded Systems", "Raspberry Pi", "React Native"],
       "image": {
         "src": "../../images/mirror1.jpg",
         "alt": "Ilio Mirror"
-      }
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.iliomirror.com/"
+        }
+      ]
     },
     {
       "visible": true,
@@ -47,7 +59,7 @@
       "tags": ["Startup", "Project"],
       "image": {
         "src": "../../images/taskway.jpg",
-        "alt": "Ilio Mirror"
+        "alt": "Taskway"
       },
       "links": [
         {
