@@ -4,7 +4,7 @@
       "visible": true,
       "category": "Industry Work",
       "title": "Twilio Flex Automation",
-      "description": "For one of the companies I did work at, I utilized Twilio Flex and Rest API calls to set up a custom plugin to operate a call center and direct calls based on the support specialist skills. Integrated SSO to keep track of skills with Google Admin.",
+      "description": "I utilized Twilio Flex and Rest API calls to set up a custom plugin which operated a call center and directed calls based on the support specialist skills. Integrated Google SSO to keep track of skills with Google Admin. Updated SSL and DNS servers in the process.",
       "tags": ["Twilio", "Python", "Google Admin", "DNS Management"],
       "image": {
         "src": "../../images/twilio.jpg",
@@ -20,7 +20,13 @@
       "image": {
         "src": "../../images/queuecla.jpg",
         "alt": "QueueCLA"
-      }
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/JakubHojsan/QueueCLA"
+        }
+      ]
     },    
     {
       "visible": true,
