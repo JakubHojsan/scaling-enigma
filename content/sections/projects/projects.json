@@ -4,7 +4,7 @@
       "visible": true,
       "category": "Industry Work",
       "title": "Twilio Flex Automation",
-      "description": "I utilized Twilio Flex and Rest API calls to set up a custom plugin which operated a call center and directed calls based on the support specialist skills. Integrated Google SSO to keep track of skills with Google Admin. Updated SSL and DNS servers in the process.",
+      "description": "I utilized Twilio Flex and Rest API calls to set up a custom plugin which operated a call center and directed nearly 10k calls based on the support specialist skills. Integrated Google SSO to keep track of skills with Google Admin. Updated SSL and DNS servers in the process.",
       "tags": ["Twilio", "Python", "Google Admin", "DNS Management"],
       "image": {
         "src": "../../images/twilio.jpg",
