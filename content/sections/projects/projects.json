@@ -2,6 +2,28 @@
   "projects": [
     {
       "visible": true,
+      "category": "Industry Work",
+      "title": "Twilio Flex Automation",
+      "description": "For one of the companies I did work at, I utilized Twilio Flex and Rest API calls to set up a custom plugin to operate a call center and direct calls based on the support specialist skills. Integrated SSO to keep track of skills with Google Admin.",
+      "tags": ["Twilio", "Python", "Google Admin", "DNS Management"],
+      "image": {
+        "src": "../../images/twilio.jpg",
+        "alt": "Twilio"
+      }
+    },
+    {
+      "visible": true,
+      "category": "Group Project",
+      "title": "QueueCLA",
+      "description": "For our CS35L class, my groupmates and I create a resturant directory and queue system to avoid lines at popular on/off campus dining locations.",
+      "tags": ["React.js", "Project", "Firebase", "Node.js", "MaterialUI"],
+      "image": {
+        "src": "../../images/queuecla.jpg",
+        "alt": "QueueCLA"
+      }
+    },    
+    {
+      "visible": true,
       "category": "Startups and Hardware",
       "title": "Ilio Mirror Prototype",
       "description": "After working on a smart mirror with a friend, I was hired by Ilio Mirror to create a production ready prototype to pitch to investors and film an industry grade commercial for Kickstarter.",
