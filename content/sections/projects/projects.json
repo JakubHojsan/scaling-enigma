@@ -80,7 +80,8 @@
       },
       "links": [
         {
-
+          "type": "external",
+          "url": "https://en.wikipedia.org/wiki/Procedural_generation#:~:text=In%20computing%2C%20procedural%20generation%20is,create%20textures%20and%203D%20models."
         }
       ]
     }
