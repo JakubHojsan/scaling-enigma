@@ -72,7 +72,7 @@
       "visible": true,
       "category": "Unity Engine/C# Procedural Generation",
       "title": "Currently working on...",
-      "description": "Following Sebastian Lague tutorials, I learned how to create an infinite seeded procedural generation map using perlin noise and some quick math. Currently working on adding additional features and will update with a repo link.",
+      "description": "I learned how to create an infinite seeded procedural generation map using perlin noise and some vector math. Currently working on a planet generation scheme to enhance this as of 6/13/2022.",
       "tags": ["Unity", "C#"],
       "image": {
         "src": "../../images/generation.jpg",
@@ -80,8 +80,7 @@
       },
       "links": [
         {
-          "type": "external",
-          "url": "https://www.youtube.com/c/SebastianLague/videos"
+
         }
       ]
     }
