@@ -2,6 +2,23 @@
   "projects": [
     {
       "visible": true,
+      "category": "Startups and Hardware",
+      "title": "Ilio Mirror Prototype",
+      "description": "After working on a smart mirror with a friend, I was hired by Ilio Mirror to create a production ready prototype to pitch to investors and film an industry grade commercial for Kickstarter.",
+      "tags": ["Startup", "Project", "Embedded Systems", "Raspberry Pi", "React Native"],
+      "image": {
+        "src": "../../images/mirror1.jpg",
+        "alt": "Ilio Mirror"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.iliomirror.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Industry Work",
       "title": "Twilio Flex Automation",
       "description": "I utilized Twilio Flex and Rest API calls to set up a custom plugin which operated a call center and directed nearly 10k calls based on the support specialist skills. Integrated Google SSO to keep track of skills with Google Admin. Updated SSL and DNS servers in the process.",
@@ -19,6 +36,23 @@
     },
     {
       "visible": true,
+      "category": "User Interface Design",
+      "title": "User Experience and Design Study: Zero",
+      "description": "Since I have a great fondness of motorcycles, I spent a quarter at UCLA learning about UI/UX and applying it to a project that included a high-fidelity prototype of a 100% sustainable motorcycle rental platform using Zero motorcycles. Linked below is the desktop only version of the study conducted, along with the prototype.",
+      "tags": ["Figma", "Prototype", "Design", "UI/UX"],
+      "image": {
+        "src": "../../images/color.png",
+        "alt": "Zero"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://silver-buttercream-ae3bda.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Group Project",
       "title": "QueueCLA",
       "description": "For our CS35L class, my groupmates and I created a resturant directory and queue system to avoid lines at popular on/off campus dining locations.",
@@ -31,23 +65,6 @@
         {
           "type": "github",
           "url": "https://github.com/JakubHojsan/QueueCLA"
-        }
-      ]
-    },    
-    {
-      "visible": true,
-      "category": "Startups and Hardware",
-      "title": "Ilio Mirror Prototype",
-      "description": "After working on a smart mirror with a friend, I was hired by Ilio Mirror to create a production ready prototype to pitch to investors and film an industry grade commercial for Kickstarter.",
-      "tags": ["Startup", "Project", "Embedded Systems", "Raspberry Pi", "React Native"],
-      "image": {
-        "src": "../../images/mirror1.jpg",
-        "alt": "Ilio Mirror"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://www.iliomirror.com/"
         }
       ]
     },
