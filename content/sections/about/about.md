@@ -3,16 +3,16 @@ imageSrc: "../../images/headshot.jpg"
 imageAlt: "Profile Image"
 ---
 
-I'm a senior at the University of California, Los Angeles.
+🎓 Senior at the University of California, Los Angeles.
 
-I came into UCLA as an Business Economics major, but quickly found my passion for computer science. After joining a startup called <a href="https://Heylo.co" target="_blank" aria-label="External Link"><u>Heylo.co</u></a> as a Campus Lead, I rekindled my passion for startups/tech.
+💼 Started as a Business Economics major at UCLA, but swiftly discovered my true passion for computer science. My journey into tech began when I became a Campus Lead at [Heylo.co](https://Heylo.co).
 
-I then joined <a href="https://uclaacmstudio.itch.io/" target="_blank" aria-label="External Link"><u>ACM Studio</u></a> to work on the development of games (as well as level design.)  
+🎮 Later, I ventured into the exciting realm of game development and level design by joining [ACM Studio](https://uclaacmstudio.itch.io/).
 
-Along the way, I joined <a href="http://iliomirror.com/" target="_blank" aria-label="External Link"><u>Ilio Mirror</u></a> as CTO and built a fleshed out minimum viable product with an amazing team. In between, I was working on automation of support call systems using <a href="https://www.twilio.com/" target="_blank" aria-label="External Link"><u>Twilio Flex</u></a>.
+🚀 Along the way, I took on the role of CTO at [Ilio Mirror](http://iliomirror.com/), where I spearheaded the development of a robust minimum viable product with an exceptional team. I also delved into automating support call systems using [Twilio Flex](https://www.twilio.com/).
 
-Currently working on a new <a href="https://www.validiti.net/" target="_blank" aria-label="External Link"><u>product</u></a>, will release more information soon.
+🌐 Currently, I'm passionately working on a new [project](https://www.validiti.net/); stay tuned for more updates!
 
-Just concluded my work at Microsoft within Azure Geoexpansion as a product manager intern!
+👨‍💼 Just concluded my stint at Microsoft, where I served as a product manager intern in Azure Geoexpansion Tooling. Exciting news: I'll be joining Microsoft full-time as a Product Manager for Azure Core!
 
-Always open to opportunities or to chat.
+📬 Always open to new opportunities and eager to chat. Let's connect!
