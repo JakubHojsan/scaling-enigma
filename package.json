@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "gatsby": "^3.7.1",
+    "gatsby-plugin-netlify": "^5.1.1",
     "gatsby-theme-portfolio-minimal": "^2.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
